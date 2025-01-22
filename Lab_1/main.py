@@ -11,6 +11,12 @@
     1. Use variables to store data/values
     2. Write a series of print statements to print the data/values to the console
 """
+import os
+
+def clear_screen():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+clear_screen()
 
 print("Welcome to ASCII Art Program...\n")
 
@@ -28,22 +34,18 @@ print("This is", year, "year.\n") #FIXED
 
 print("Hope you like my ASCII art...\n\n")
 
-
-
-
-
-
-
 line1: str = "  |\\_/|   **********************    (\\_/)"
 print(line1)
+
 line2: str = " / @ @ \  *      ASCII Lab     *   (='.'=)"
 print(line2) #FIXED7
+
 print('( > 0 < ) *      Garrett       * ( " )_( " )') #FIXED8
+
 line4: str  = '  >>x<<   *      CSCI 110      *'
 print(line4) #FIXED9
+
 line5: str = ' /  O  \  **********************' #FIXED10
 print(line5)
-
-# Note: You can add more lines or print more ASCII arts of your choice if you'd like...
 
 print("\nGood bye...  \n")
