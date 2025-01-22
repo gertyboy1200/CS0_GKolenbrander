@@ -12,8 +12,17 @@ ________________________________________________________________________________
 ## #1
 | --- | --- |
 | Name: | Garrett |
-| Description: | Ascii art lab |
+| Description: | Ascii Art Lab |
 | Due Date: | 2/7/2025 |
 | Status: | Finished |
-| Location: | <provide github link to assignment> |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_1 |
 | Notes: | added clear screen to the code|
+
+## #2
+| --- | --- |
+| Name: | Garrett |
+| Description: | Circle Lab |
+| Due Date: | 2/14/2025 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_2 |
+| Notes: | all kattis tests passed|
