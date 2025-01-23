@@ -13,7 +13,7 @@ ________________________________________________________________________________
 | --- | --- |
 | Name: | Garrett |
 | Description: | Ascii Art Lab |
-| Due Date: | 2/7/2025 |
+| Due Date: | 7/2/2025 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_1 |
 | Notes: | added clear screen to the code|
@@ -22,7 +22,16 @@ ________________________________________________________________________________
 | --- | --- |
 | Name: | Garrett |
 | Description: | Circle Lab |
-| Due Date: | 2/14/2025 |
+| Due Date: | 14/2/2025 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_2 |
+| Notes: | all kattis tests passed|
+
+## #3
+| --- | --- |
+| Name: | Garrett |
+| Description: | Bijele Lab |
+| Due Date: | 21/2/2025 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_3 |
 | Notes: | all kattis tests passed|
