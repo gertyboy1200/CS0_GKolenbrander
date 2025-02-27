@@ -1,8 +1,8 @@
 """
 Conditional Logic Lab
-Updated By: FIXME
+Updated By: Garrett Kolenbrander
 CSCI 110 Lab
-Date: FIXME
+Date: 26/2/25
 
 Read and solve the Kattis problem: https://open.kattis.com/problems/twostones 
 
@@ -18,9 +18,8 @@ Algorithm Steps:
 def main():
     """Main function that solves the problem
     """
-    # FIXME 1: read the number of stones
-    # FIXME 2: call answer function passing the number of stones as an argument
-    # FIXME 3: print the answer as shown in the sample output
+    N = input() # FIXED 1
+    print(answer(int(N))) # FIXED 2
 
 
 def odd_even(number: int):
@@ -32,10 +31,10 @@ def odd_even(number: int):
     Returns:
         str: 'odd' if the number is odd, 'even' otherwise
     """
-    # FIXME 4: if the number divided by 2 has 0 remainder, return 'even'
-    # otherwise, return 'odd'
-    ans = "FIXME"
-    return ans
+    if (number % 2) == 0:
+        return 'even'
+    else:
+        return 'odd'
 
 
 def answer(stone: int):
