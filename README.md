@@ -35,3 +35,21 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_3 |
 | Notes: | all kattis tests passed|
+
+## #4a
+| --- | --- |
+| Name: | Garrett |
+| Description: | Two Stones |
+| Due Date: | 27/2/2025 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_4 |
+| Notes: | all kattis tests passed|
+
+## #4a
+| --- | --- |
+| Name: | Garrett |
+| Description: | Conditionals |
+| Due Date: | 27/2/2025 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_4 |
+| Notes: | all tests passed|
