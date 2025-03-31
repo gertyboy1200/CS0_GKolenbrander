@@ -45,11 +45,38 @@ ________________________________________________________________________________
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_4 |
 | Notes: | all kattis tests passed|
 
-## #4a
+## #4b
 | --- | --- |
 | Name: | Garrett |
 | Description: | Conditionals |
 | Due Date: | 27/2/2025 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_4 |
+| Notes: | all tests passed|
+
+## #5
+| --- | --- |
+| Name: | Garrett |
+| Description: | Loops |
+| Due Date: | 30/2/25 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_5 |
+| Notes: | all tests passed|
+
+## #6a
+| --- | --- |
+| Name: | Garrett |
+| Description: | hissing microphone |
+| Due Date: | 30/3/25 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_6 |
+| Notes: | all tests passed|
+
+## #6b
+| --- | --- |
+| Name: | Garrett |
+| Description: | simons says |
+| Due Date: | 30/3/25 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_6 |
 | Notes: | all tests passed|
