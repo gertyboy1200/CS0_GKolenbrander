@@ -12,7 +12,7 @@ ________________________________________________________________________________
 ## #1
 | --- | --- |
 | Name: | Garrett |
-| Description: | Ascii Art Lab |
+| Description: | ascii art |
 | Due Date: | 7/2/2025 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_1 |
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 ## #2
 | --- | --- |
 | Name: | Garrett |
-| Description: | Circle Lab |
+| Description: |circle |
 | Due Date: | 14/2/2025 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_2 |
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ## #3
 | --- | --- |
 | Name: | Garrett |
-| Description: | Bijele Lab |
+| Description: | bijele |
 | Due Date: | 21/2/2025 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_3 |
@@ -39,7 +39,7 @@ ________________________________________________________________________________
 ## #4a
 | --- | --- |
 | Name: | Garrett |
-| Description: | Two Stones |
+| Description: | two stones |
 | Due Date: | 27/2/2025 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_4 |
@@ -48,7 +48,7 @@ ________________________________________________________________________________
 ## #4b
 | --- | --- |
 | Name: | Garrett |
-| Description: | Conditionals |
+| Description: | conditionals |
 | Due Date: | 27/2/2025 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_4 |
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 ## #5
 | --- | --- |
 | Name: | Garrett |
-| Description: | Loops |
+| Description: | loops |
 | Due Date: | 30/2/25 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_5 |
@@ -79,4 +79,22 @@ ________________________________________________________________________________
 | Due Date: | 30/3/25 |
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_6 |
+| Notes: | all tests passed|
+
+## #7a
+| --- | --- |
+| Name: | Garrett |
+| Description: | lists |
+| Due Date: | 10/4/25 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_7 |
+| Notes: | all tests passed|
+
+## #7b
+| --- | --- |
+| Name: | Garrett |
+| Description: | pet |
+| Due Date: | 10/4/25 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_7/pet |
 | Notes: | all tests passed|
