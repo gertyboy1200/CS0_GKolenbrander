@@ -98,3 +98,21 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_7/pet |
 | Notes: | all tests passed|
+
+## #8
+| --- | --- |
+| Name: | Garrett |
+| Description: | dict |
+| Due Date: | 16/4/25 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_8 |
+| Notes: | all tests passed|
+
+## #9
+| --- | --- |
+| Name: | Garrett |
+| Description: | file io |
+| Due Date: | 16/4/25 |
+| Status: | Finished |
+| Location: | https://github.com/gertyboy1200/CS0_GKolenbrander/tree/main/Lab_9 |
+| Notes: | all tests passed|
